@@ -1,3 +1,3 @@
-sparqlkernel
 sparqlwrapper
 rdflib
+neo4j

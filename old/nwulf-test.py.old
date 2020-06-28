@@ -1,0 +1,17 @@
+import networkx as nx
+import netwulf as nw
+
+graph = {
+  "nodes": [ 
+    { "id": "A", "size": 1 },
+    { "id": "B", "size": 1 },  
+    { "id": "C", "size": 1 }
+  ],
+  
+  "links": [
+    { "source": "A", "target": "B", "weight": 1 },
+    { "source": "A", "target": "C", "weight": 1 }
+  ]  
+}
+
+nw.visualize ( graph )
