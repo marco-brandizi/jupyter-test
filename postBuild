@@ -1,1 +1,1 @@
-jupyter sparqlkernel install --user
+#jupyter sparqlkernel install --user

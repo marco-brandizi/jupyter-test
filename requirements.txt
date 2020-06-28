@@ -1,3 +1,4 @@
 sparqlwrapper
 rdflib
 neo4j
+networkx
