@@ -1,3 +1,4 @@
+pandas
 sparqlwrapper
 rdflib
 neo4j
